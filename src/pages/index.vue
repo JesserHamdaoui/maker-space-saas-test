@@ -1,7 +1,7 @@
-<template>
-  <HelloWorld />
-</template>
+<template><h1>Ahla</h1></template>
 
-<script setup>
-  //
+<script>
+export default {};
 </script>
+
+<style></style>
